@@ -1,0 +1,1 @@
+## Hello there, lets learn go and dive a bit deeper by learning k8s, grpc, etc.
