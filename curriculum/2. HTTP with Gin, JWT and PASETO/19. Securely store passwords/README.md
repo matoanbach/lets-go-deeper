@@ -1,0 +1,1 @@
+## How to securely store passwords? Hash password in Go with Bcrypt
